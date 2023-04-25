@@ -1,14 +1,13 @@
 export default function Features(){
     return (
         <div class="bg-gray-900 py-24 sm:py-32">
-        <div class="mx-auto max-w-7xl px-6 lg:px-8">
-          <div class="mx-auto max-w-2xl lg:text-center">
-            <div className="grid place-content-center text-base font-semibold leading-7 p-2 rounded text-indigo-600">
-            <h2 class="border border-gray-600 rounded-xl p-2 w-fit`">To Infinity and Beyond!</h2></div>
+          <div className="border-b-2 border-purple-500  translate-x-1/4 rounded-3xl w-1/4 mb-8"></div>
+        <div class=" max-w-7xl px-6 lg:px-8 ml-16">
+          <div class=" max-w-4xl">
             <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Everything you need to deploy your app</p>
             <p class="mt-6 text-lg leading-8 text-gray-300">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, voluptatibus ea voluptates iste soluta quae voluptatum impedit dolore </p>
           </div>
-          <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
+          <div class=" mt-16 max-w-4xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
             <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
               <div class="relative pl-16">
                 <dt class="text-base font-semibold leading-7 text-white">
